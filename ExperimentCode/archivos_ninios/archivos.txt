@@ -1,2 +1,0 @@
-texto1.txt
-texto2.txt
