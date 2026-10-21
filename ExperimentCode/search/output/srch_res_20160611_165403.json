@@ -1,0 +1,489 @@
+{
+  "context": {
+    "title": "Google"
+  }, 
+  "items": [
+    {
+      "cacheId": "PVDQGYAT6zsJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1C...", 
+      "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1C...", 
+      "htmlSnippet": "Attribution: en.wikipedia.org - Imported via Fusion Tables search http://en.<br>\nwikipedia.org/wiki/List_of_countries_by_coffee_consumption_per_capita.", 
+      "htmlTitle": "List of countries by <b>coffee</b> consumption per capita - Wikipedia, the <b>...</b>", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/fusiontables/DataSource?docid=1C-fn6nSe21acP0xJIO1T1x0wohqfMYCQyJjbqdk", 
+      "snippet": "Attribution: en.wikipedia.org - Imported via Fusion Tables search http://en.\nwikipedia.org/wiki/List_of_countries_by_coffee_consumption_per_capita.", 
+      "title": "List of countries by coffee consumption per capita - Wikipedia, the ..."
+    }, 
+    {
+      "cacheId": "4xCNDxW4ln0J", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/maps/d/u/0/viewer?mid...hl=en", 
+      "htmlFormattedUrl": "https://www.google.com/maps/d/u/0/viewer?mid...hl=en", 
+      "htmlSnippet": "Here&#39;s a detailed map of all the different Cafe&#39;s and <b>Coffee</b> Shops in South of <br>\nMarket, San Francisco. For more information about this &#39;Up-and-Coming-&nbsp;...", 
+      "htmlTitle": "Cafes &amp; <b>Coffee</b> Shops in SOMA", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/maps/d/u/0/viewer?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDDNNttJ6TMxEebbO_fZhR8cAcm-7Mye4blfs7wB9gXOdv2FSZ6nF7JM", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "Here's a detailed map of all the different Cafe's and Coffee Shops in South of Market, San Francisco. For more information about this 'Up-and-Coming- Neighborhood, check out www.livesoma.com", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en", 
+            "og:title": "Cafes & Coffee Shops in SOMA", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "Here's a detailed map of all the different Cafe's and Coffee Shops in South of Market, San Francisco. For more information about this 'Up-and-Coming- Neighborhood, check out www.livesoma.com", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en", 
+            "twitter:title": "Cafes & Coffee Shops in SOMA", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "Here's a detailed map of all the different Cafe's and Coffee Shops in South of Market, San Francisco. For more information about this 'Up-and-Coming- Neighborhood, check out www.livesoma.com", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en", 
+            "name": "Cafes & Coffee Shops in SOMA", 
+            "url": "https://www.google.com/maps/d/viewer?mid=zm6bXpE44ImQ.kScAv2OXeqwc&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "Here's a detailed map of all the different Cafe's and Coffee Shops in South of \nMarket, San Francisco. For more information about this 'Up-and-Coming-\u00a0...", 
+      "title": "Cafes & Coffee Shops in SOMA"
+    }, 
+    {
+      "cacheId": "mI1mUm2BKiMJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...o&hl=en", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...o&amp;hl=en", 
+      "htmlSnippet": "A map of some of the best specialty coffeehouses in the city. <b>Coffee</b> shops in all <br>\ncaps select their own beans and roast them locally. Shops with an asterisks were<br>\n&nbsp;...", 
+      "htmlTitle": "LA <b>Coffee</b> Map", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMrkH9ZNiupfDxmCSFJIHQa6TMQSbA4lbfMm0jLdvkfCBZoDf5HZyty-s", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "A map of some of the best specialty coffeehouses in the city.   Coffee shops in all caps select their own beans and roast them locally.  Shops with an asterisks were highlighted in our post, \"10 Places to Get a Damn Good Cup of Coffee\": http://bit.ly/gZGsYC", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en", 
+            "og:title": "LA Coffee Map", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "A map of some of the best specialty coffeehouses in the city.   Coffee shops in all caps select their own beans and roast them locally.  Shops with an asterisks were highlighted in our post, \"10 Places to Get a Damn Good Cup of Coffee\": http://bit.ly/gZGsYC", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en", 
+            "twitter:title": "LA Coffee Map", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "A map of some of the best specialty coffeehouses in the city. Coffee shops in all caps select their own beans and roast them locally. Shops with an asterisks were highlighted in our post, \"10...", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en", 
+            "name": "LA Coffee Map", 
+            "url": "https://www.google.com/maps/d/viewer?mid=1Ub00vwUuzG1-DyyBVbbSLvfke_o&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "A map of some of the best specialty coffeehouses in the city. Coffee shops in all \ncaps select their own beans and roast them locally. Shops with an asterisks were\n\u00a0...", 
+      "title": "LA Coffee Map"
+    }, 
+    {
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1ryJ07RkbND...hl=en...", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1ryJ07RkbND...hl=en...", 
+      "htmlSnippet": "<b>Coffee</b> Cup - Caf\u00e9 / Bar / Shop <b>Coffee</b> Bean - Roastery (and caf\u00e9) Kettle - Brew <br>\nBar (filter <b>coffee</b> only) More: http://map.thirdwavewichteln.com/", 
+      "htmlTitle": "Third Wave <b>Coffee</b> Places", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM1jL8BbhjUvCUeShPU_xs_25d_BPmOIy8dmt_-mXaA6ec86gCeJIo6BQP", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "Coffee Cup - Caf\u00e9 / Bar / Shop Coffee Bean - Roastery (and caf\u00e9) Kettle - Brew Bar (filter coffee only) More: http://map.thirdwavewichteln.com/", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US", 
+            "og:title": "Third Wave Coffee Places", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "Coffee Cup - Caf\u00e9 / Bar / Shop Coffee Bean - Roastery (and caf\u00e9) Kettle - Brew Bar (filter coffee only) More: http://map.thirdwavewichteln.com/", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US", 
+            "twitter:title": "Third Wave Coffee Places", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "Coffee Cup - Caf\u00e9 / Bar / Shop Coffee Bean - Roastery (and caf\u00e9) Kettle - Brew Bar (filter coffee only) More: http://map.thirdwavewichteln.com/", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US", 
+            "name": "Third Wave Coffee Places", 
+            "url": "https://www.google.com/maps/d/viewer?mid=1ryJ07RkbND-EASyLaI_0nrM4f3c&hl=en_US"
+          }
+        ]
+      }, 
+      "snippet": "Coffee Cup - Caf\u00e9 / Bar / Shop Coffee Bean - Roastery (and caf\u00e9) Kettle - Brew \nBar (filter coffee only) More: http://map.thirdwavewichteln.com/", 
+      "title": "Third Wave Coffee Places"
+    }, 
+    {
+      "cacheId": "S3l7t3RvHGsJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en", 
+      "htmlSnippet": "A selection of londons best <b>coffee</b> houses, <b>coffee</b> carts, roasterys and cafes.", 
+      "htmlTitle": "London <b>coffee</b> map", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_5lSv6AFaTtDCJ6zJhuVKuMWWK5wRqWJVRU53TlmHUZFm0utXnjAFv6I", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "A selection of londons best coffee houses, coffee carts, roasterys and cafes.", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en", 
+            "og:title": "London coffee map", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "A selection of londons best coffee houses, coffee carts, roasterys and cafes.", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en", 
+            "twitter:title": "London coffee map", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "A selection of londons best coffee houses, coffee carts, roasterys and cafes.", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en", 
+            "name": "London coffee map", 
+            "url": "https://www.google.com/maps/d/viewer?mid=1aTRgI1CBqxs0Ur1wKIbFX47glPg&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "A selection of londons best coffee houses, coffee carts, roasterys and cafes.", 
+      "title": "London coffee map"
+    }, 
+    {
+      "cacheId": "dxsqZ2qH-JYJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/maps/d/viewer?mid=zphsuCBT6o7o...", 
+      "htmlFormattedUrl": "https://www.google.com/maps/d/viewer?mid=zphsuCBT6o7o...", 
+      "htmlSnippet": "Find out for yourself why this is Australia&#39;s capital city of <b>coffee</b> and enjoy some <br>\nshopping along the way.", 
+      "htmlTitle": "Melbourne <b>Coffee</b> Crawl", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/maps/d/viewer?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUKoCEBoEXj-VYtrE8J7I_gri30Rb69y47Tf5ewzEW0IPIpNYu10RHqpnU", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "Find out for yourself why this is Australia's capital city of coffee and enjoy some shopping along the way.", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US", 
+            "og:title": "Melbourne Coffee Crawl", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "Find out for yourself why this is Australia's capital city of coffee and enjoy some shopping along the way.", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US", 
+            "twitter:title": "Melbourne Coffee Crawl", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "Find out for yourself why this is Australia's capital city of coffee and enjoy some shopping along the way.", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US", 
+            "name": "Melbourne Coffee Crawl", 
+            "url": "https://www.google.com/maps/d/viewer?mid=zphsuCBT6o7o.keULrBJiyqUY&hl=en_US"
+          }
+        ]
+      }, 
+      "snippet": "Find out for yourself why this is Australia's capital city of coffee and enjoy some \nshopping along the way.", 
+      "title": "Melbourne Coffee Crawl"
+    }, 
+    {
+      "cacheId": "v6Ot2s3D1xAJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/maps/d/viewer?mid...msa=0&dg...", 
+      "htmlFormattedUrl": "https://www.google.com/maps/d/viewer?mid...msa=0&amp;dg...", 
+      "htmlSnippet": "This is the route that Gorham Bike and Ski uses for it&#39;s Friday Morning <b>Coffee</b> <br>\nRide.", 
+      "htmlTitle": "Friday Morning <b>Coffee</b> Ride", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/maps/d/viewer?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A&msa=0&dg=feature", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=z5NK_qoaKTTc.kfvnhCfzt0Fk&hl=en_US"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHpxoRf76yBWAafkOoyscHI7rTPhn62qvLi1wXegE23BzPMik3mFPUSQ8", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "This is the route that Gorham Bike and Ski uses for it's Friday Morning Coffee Ride.", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A", 
+            "og:title": "Friday Morning Coffee Ride", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "This is the route that Gorham Bike and Ski uses for it's Friday Morning Coffee Ride.", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A", 
+            "twitter:title": "Friday Morning Coffee Ride", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "This is the route that Gorham Bike and Ski uses for it's Friday Morning Coffee Ride.", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A", 
+            "name": "Friday Morning Coffee Ride", 
+            "url": "https://www.google.com/maps/d/viewer?mid=zTHGHnOWlc3U.k3Pnhc1KOL5A"
+          }
+        ]
+      }, 
+      "snippet": "This is the route that Gorham Bike and Ski uses for it's Friday Morning Coffee \nRide.", 
+      "title": "Friday Morning Coffee Ride"
+    }, 
+    {
+      "cacheId": "dBlsfPVFbwUJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid=z2qrWPf5DNDE...", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=z2qrWPf5DNDE...", 
+      "htmlSnippet": "<b>Coffee</b> Cesso is a <b>coffee</b> shop / bistro / live museum venue attached to <br>\nSwansea&#39;s Waterfront Museum.", 
+      "htmlTitle": "<b>Coffee</b> Cesso @ Waterfront Museum", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=zeacmerZO85E.kBP7taKB3aK8&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw9GawF2dvQoItMOzc_iyF91eJ9XIuCxYQQu6mHNO-rZbIqKd6LswKU7U", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "Coffee Cesso is a coffee shop / bistro / live museum venue attached to Swansea's Waterfront Museum.", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en", 
+            "og:title": "Coffee Cesso @ Waterfront Museum", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "Coffee Cesso is a coffee shop / bistro / live museum venue attached to Swansea's Waterfront Museum.", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en", 
+            "twitter:title": "Coffee Cesso @ Waterfront Museum", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "Coffee Cesso is a coffee shop / bistro / live museum venue attached to Swansea's Waterfront Museum.", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en", 
+            "name": "Coffee Cesso @ Waterfront Museum", 
+            "url": "https://www.google.com/maps/d/viewer?mid=z2qrWPf5DNDE.kFLirJbdSamY&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "Coffee Cesso is a coffee shop / bistro / live museum venue attached to \nSwansea's Waterfront Museum.", 
+      "title": "Coffee Cesso @ Waterfront Museum"
+    }, 
+    {
+      "cacheId": "3LePgXMvh50J", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...hl=en", 
+      "htmlSnippet": "This map contains all of the establishments that Bill has physically visited and <br>\nthat have been rated on Pure <b>Coffee</b> Blog, EXCEPT: - closed establishments&nbsp;...", 
+      "htmlTitle": "Pure <b>Coffee</b> Map", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrNmffYIZL8i6P18SpNvgqZf4MmHs6nKr2TEuT7nj_XM16SpKDlAKOqug", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "This map contains all of the establishments that Bill has physically visited and that have been rated on Pure Coffee Blog, EXCEPT: - closed establishments - cafes rating 1+ or 2+   for the full key, see the blog  (basically, 3+ are ok places, 4+ are decent joints, and 5+ & 6+ establishments are definitely worth visiting)", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en", 
+            "og:title": "Pure Coffee Map", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "This map contains all of the establishments that Bill has physically visited and that have been rated on Pure Coffee Blog, EXCEPT: - closed establishments - cafes rating 1+ or 2+   for the full key, see the blog  (basically, 3+ are ok places, 4+ are decent joints, and 5+ & 6+ establishments are definitely worth visiting)", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en", 
+            "twitter:title": "Pure Coffee Map", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "This map contains all of the establishments that Bill has physically visited and that have been rated on Pure Coffee Blog, EXCEPT: - closed establishments - cafes rating 1+ or 2+ for the full...", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en", 
+            "name": "Pure Coffee Map", 
+            "url": "https://www.google.com/maps/d/viewer?mid=1T0gN2t5Y51P0VZuRT1uhuEuJE1Y&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "This map contains all of the establishments that Bill has physically visited and \nthat have been rated on Pure Coffee Blog, EXCEPT: - closed establishments\u00a0...", 
+      "title": "Pure Coffee Map"
+    }, 
+    {
+      "cacheId": "5xAS98uZQBsJ", 
+      "displayLink": "www.google.com", 
+      "formattedUrl": "https://www.google.com/mymaps/viewer?mid...CyRBQ&hl=en", 
+      "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...CyRBQ&amp;hl=en", 
+      "htmlSnippet": "Independent and small chain <b>coffee</b> shops around Indianapolis. No big chain <br>\n<b>coffee</b> shops. Green markers indicate KNOWN wifi hotspots, blue markers do not<br>\n&nbsp;...", 
+      "htmlTitle": "Indy Indie <b>Coffee</b> Shops", 
+      "kind": "customsearch#result", 
+      "link": "https://www.google.com/mymaps/viewer?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en", 
+      "pagemap": {
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1VusHo6tMqtT_VYE6oe5MyChX5z8&hl=en"
+          }
+        ], 
+        "cse_thumbnail": [
+          {
+            "height": "228", 
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4nxJLFtnWdD4jgHgNmdYitXM1iH51MeO9yppPxGNLilkUmKwNYNI897U", 
+            "width": "221"
+          }
+        ], 
+        "metatags": [
+          {
+            "og:description": "Independent and small chain coffee shops around Indianapolis. No big chain coffee shops.  Green markers indicate KNOWN wifi hotspots, blue markers do not have wifi, or they do have it, and I just don't know it. HOWEVER, I don't know of a single coffee shop that doesn't have wifi anymore, so they probably all do.  If your shop isn't listed, post a comment, and I'll add it.", 
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en", 
+            "og:title": "Indy Indie Coffee Shops", 
+            "og:type": "website", 
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en", 
+            "twitter:card": "summary_large_image", 
+            "twitter:description": "Independent and small chain coffee shops around Indianapolis. No big chain coffee shops.  Green markers indicate KNOWN wifi hotspots, blue markers do not have wifi, or they do have it, and I just don't know it. HOWEVER, I don't know of a single coffee shop that doesn't have wifi anymore, so they probably all do.  If your shop isn't listed, post a comment, and I'll add it.", 
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en", 
+            "twitter:title": "Indy Indie Coffee Shops", 
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"
+          }
+        ], 
+        "website": [
+          {
+            "description": "Independent and small chain coffee shops around Indianapolis. No big chain coffee shops. Green markers indicate KNOWN wifi hotspots, blue markers do not have wifi, or they do have it, and I...", 
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en", 
+            "name": "Indy Indie Coffee Shops", 
+            "url": "https://www.google.com/maps/d/viewer?mid=1AIV46BhTRcfWoDFMBndGG_CyRBQ&hl=en"
+          }
+        ]
+      }, 
+      "snippet": "Independent and small chain coffee shops around Indianapolis. No big chain \ncoffee shops. Green markers indicate KNOWN wifi hotspots, blue markers do not\n\u00a0...", 
+      "title": "Indy Indie Coffee Shops"
+    }
+  ], 
+  "kind": "customsearch#search", 
+  "queries": {
+    "nextPage": [
+      {
+        "count": 10, 
+        "cx": "006968196897969725769:sx3bnktd-hq", 
+        "inputEncoding": "utf8", 
+        "outputEncoding": "utf8", 
+        "safe": "off", 
+        "searchTerms": "coffee", 
+        "startIndex": 11, 
+        "title": "Google Custom Search - coffee", 
+        "totalResults": "22900000"
+      }
+    ], 
+    "request": [
+      {
+        "count": 10, 
+        "cx": "006968196897969725769:sx3bnktd-hq", 
+        "inputEncoding": "utf8", 
+        "outputEncoding": "utf8", 
+        "safe": "off", 
+        "searchTerms": "coffee", 
+        "startIndex": 1, 
+        "title": "Google Custom Search - coffee", 
+        "totalResults": "22900000"
+      }
+    ]
+  }, 
+  "searchInformation": {
+    "formattedSearchTime": "0.35", 
+    "formattedTotalResults": "22,900,000", 
+    "searchTime": 0.345587, 
+    "totalResults": "22900000"
+  }, 
+  "url": {
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+    "type": "application/json"
+  }
+}
